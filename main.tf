@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+/* <<<<<<< HEAD */
 provider "aws" {
   region = var.region
 }
@@ -27,6 +27,6 @@ resource "aws_instance" "ubuntu" {
     Name = var.instance_name
   }
 }
-=======
+/* =======
 
->>>>>>> 4db4061226975960972abe0e2c6d47e92823d450
+>>>>>>> 4db4061226975960972abe0e2c6d47e92823d450 */
